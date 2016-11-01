@@ -2,7 +2,8 @@
 ## Asian --> Chinese
 ---
 Select a restaurant:
-## Taste of China http://www.brooklyntasteofchina.com/
+## [Homes kitchen chinese restaurant](http://www.homeskitchen.com/)
+## [Good Chinese](http://www.goodchinesebrooklyn.com/)
 ---
-Back to Asian  
-Start Over
+[Back to Asian](asian.md)
+[Start Over](../home.md)
