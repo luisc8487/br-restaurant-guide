@@ -3,7 +3,8 @@
 ---
 Select a specific Asian food:
 ## Chinese
-## Japanese
+
+## [Japanese](http://www.zenkichi.com/)
 ## Thai
 ---
 Start Over
