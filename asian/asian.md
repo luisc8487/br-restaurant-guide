@@ -4,6 +4,7 @@
 Select a specific Asian food:
 ## Chinese
 ## Japanese
-## Thai
+
+## [Thai](http://www.sripraphairestaurant.com/)
 ---
-Start Over
+[Start Over](../home.md)
