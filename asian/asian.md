@@ -2,9 +2,10 @@
 ## Asian
 ---
 Select a specific Asian food:
-## Chinese
+## [Chinese](chinese.md)
 
-## [Japanese](http://www.zenkichi.com/)
-## Thai
----
-Start Over
+## [Japanese](japanese.md)
+
+## [Thai](thai.md)
+
+[Start Over](../home.md)
